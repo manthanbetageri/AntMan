@@ -6,3 +6,5 @@ class First
 		System.out.println("Manthan");
 	}
 }
+output
+Manthan
